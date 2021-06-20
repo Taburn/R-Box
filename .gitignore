@@ -1,0 +1,8 @@
+
+*.PcbDocPreview
+*.SchDocPreview
+*.log
+*.html
+*.drc
+*.Txt
+*.PrjPcbStructure
